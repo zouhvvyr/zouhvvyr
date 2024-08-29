@@ -1,10 +1,12 @@
-### Hi there 👋, Zouhayr El Filali
-#### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://github.com/zouhvvyr/zouhvvyr/blob/main/1713434352744.jfif)
+
+# Zouhayr El Filali
 
 I'm Zouhayr from Morocco. I really enjoy learning languages and frameworks like React and React Native, I also enjoy wireframing, ui, ux, and design in general.
 
-Skills:  JS / PYTHON / C / HTML / CSS
+## Skills and Experience
+* 💻 HTML, CSS, JS
+* 🕹 PYTHON 
 
 - 🔭 I’m currently working on this page. 
 
