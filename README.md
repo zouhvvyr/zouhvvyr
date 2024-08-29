@@ -15,4 +15,3 @@ I'm Zouhayr from Morocco. I really enjoy learning languages and frameworks like 
 
 
 
-https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg
